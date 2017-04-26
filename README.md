@@ -1,2 +1,2 @@
 # HTML Project
-Simple webpage showcasing some semantic elements, a table, and form, using HTML5.
+[Simple webpage](https://eyacobson.github.io/HTML-project/) showcasing some semantic elements, a table, and form, using HTML5.
